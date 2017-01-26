@@ -1,0 +1,2 @@
+# Gatorpartments
+A teamwork web application using LAMP stack, Git repository to control versions. The back-end implemented in PHP and the RDBMS MySQL, the front-end implemented in HTML, CSS, Javascript, JQuery and Bootstrap which could be adaptive on Mobile devices. The whole project Implemented in MVC framework (MINI PHP framework), and  gave me experience about Modern SE process and continuous SW development.
